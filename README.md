@@ -1,8 +1,8 @@
 # iStore
 
-Languages: JavaScript, TypeScript.
-Technologies and Frameworks: React, Redux, React-Redux, Redux ToolKit, Firebase.
-Tools: Webpack, ESLint, StyleLint, Prettier.
+`Languages:` JavaScript, TypeScript. \
+`Technologies and Frameworks:` React, Redux, React-Redux, Redux ToolKit, Firebase. \
+`Tools:` Webpack, ESLint, StyleLint, Prettier.
 
 ## Available Scripts
 
